@@ -139,7 +139,7 @@ public class Main {
             System.out.println("Child");
         } else if (age >= 13 && age <= 19) {
             System.out.println("Teenager");
-        }else if(age>=20){
+        }else{
             System.out.println("Adult");
         }
         /*
