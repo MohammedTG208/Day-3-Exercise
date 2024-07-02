@@ -100,7 +100,7 @@ public class Main {
         System.out.print("Enter your numeric score: ");
         int score= grade.nextInt();
         if(score<101){
-            if(score>=100){
+            if(score>=90){
                 System.out.println("Numeric Score: "+score);
                 System.out.println("Letter Grade: A");
             } else if (score>=80) {
